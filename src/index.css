@@ -12,3 +12,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.headder{
+  background-color:#f7ce3e;
+
+}
+.inputStyle{
+  float: left;
+
+
+}
+.btn{
+  text-align: left;
+  margin-right: 100%;
+  width:6%;
+  color: black;
+  height: 17px;
+
+}
+.options{
+  float: left;
+
+}
+#myTable{
+width: 100%;
+}
+.popline1{
+  text-align: left;
+
+}
+.popline2{
+  text-align: left;
+
+}
